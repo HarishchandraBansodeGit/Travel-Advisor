@@ -2,7 +2,7 @@
 
 # 🌍Travel Guide – Travel Companion App
 
-![Travel Guide App](travel-guide.png)
+![Travel Guide App](Travel Guide Project.png)
 
 > An advanced **Travel Advisor & Travel Guide Web Application** built using **Google Maps, Geolocation APIs, and Rapid APIs** to help users find restaurants, hotels, and attractions anywhere in the world.
 
