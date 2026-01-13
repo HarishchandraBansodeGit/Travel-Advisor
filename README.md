@@ -77,23 +77,6 @@ Whether planning a trip or already traveling, the app makes discovering places s
 
 ---
 
-## 💻 Hardware Requirements
-
-* 64-bit CPU (Intel / AMD)
-* Minimum **2 GB RAM**
-* **2 GB free disk space**
-* Windows / macOS / Linux
-
----
-
-## ⚙ Software Requirements
-
-* **Node.js 14.17.6**
-* **Visual Studio Code**
-* **Google Chrome**
-
----
-
 ## 📌 Conclusion
 
 The **Travel Guide App** transforms how users explore the world by combining **maps, live location, and travel data** into one powerful platform.
