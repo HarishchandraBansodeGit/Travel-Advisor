@@ -27,10 +27,15 @@ All from a single, easy-to-use platform.
 ## ✨ Features
 
 ✔ Search for **exact places**
+
 ✔ View nearby **restaurants, hotels, and attractions**
+
 ✔ **Live geolocation** to show places around you
+
 ✔ **Google Maps integration**
+
 ✔ **Data filtering** for better results
+
 ✔ Fast and user-friendly interface
 
 ---
